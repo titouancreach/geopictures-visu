@@ -1,0 +1,36 @@
+{
+  "name": "photo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "./node_modules/.bin/electron .",
+    "build": "./node_modules/.bin/webpack",
+    "watch": "./node_modules/.bin/webpack --watch"
+  },
+  "author": "Titouan CREACH",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^0.28.7",
+    "electron": "^1.7.6",
+    "extract-text-webpack-plugin": "^3.0.0",
+    "html-webpack-plugin": "^2.30.1",
+    "style-loader": "^0.18.2",
+    "webpack": "^3.5.6"
+  },
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-plugin-syntax-async-functions": "^6.13.0",
+    "babel-preset-env": "^1.6.0",
+    "babel-preset-stage-0": "^6.24.1",
+    "exif": "^0.6.0",
+    "leaflet": "^1.2.0",
+    "lodash": "^4.17.4",
+    "vue": "^2.4.4",
+    "vue-loader": "^13.0.4",
+    "vue-template-compiler": "^2.4.4",
+    "vuetify": "^0.15.7"
+  }
+}
