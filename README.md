@@ -11,6 +11,24 @@ Geopictures visu is a software running on Electron that allows to visulize geota
 
 ## Screenshot
 
+## Install
+
+```
+# using yarn
+yarn install
+yarn run build
+yarn run start
+```
+
+```
+# using npm
+npm install
+npm run build
+npm run start
+```
+
+
+
 ## Technologies
 The software is built on top of electron and use modern javascript frameworks. It use `mapbox.js` and `leaflet`
 for the map, `Vue` and `Vuetify` for the User Interface and [Leaflet.Photo](https://github.com/turban/Leaflet.Photo)
@@ -20,3 +38,4 @@ for the clustering and the picture display.
   - `build`: Build the software
   - `watch`: Build automatically when a source file change
   - `start`: Start the software
+
