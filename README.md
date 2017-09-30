@@ -11,6 +11,19 @@ Geopictures visu is a software running on Electron that allows to visulize geota
 
 ## Screenshot
 
+![Main view](./screenshot/main_view_and_clustering.png)
+View your photos on a map.
+
+![Zoom](./screenshot/clustering_zoom.png)
+When clicking on a clustered image or when uploading image. The view directly fit to your pictures.
+
+![FullSize](./screenshot/clicking_on_a_picture.png)
+When clicking on a picture, it appears full size.
+
+![Error](./screenshot/error_msg.png)
+Photo with no geotags are handled and doesn't prevent other photos to load.
+
+
 ## Install
 
 ```
