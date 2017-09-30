@@ -5,7 +5,7 @@ Geopictures visu is a software running on Electron that allows to visulize geota
 ## Features
   - Add multiple photos
   - Error management for pictures that don't have geo tags
-  - Beautify thumbnail clustering management
+  - Beautiful thumbnail clustering management
   - Display the picture when clicking on the thumbnail
   - User friendly and easy to use
 
