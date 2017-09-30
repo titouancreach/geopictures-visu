@@ -21,7 +21,7 @@ When clicking on a clustered image or when uploading image. The view directly fi
 When clicking on a picture, it appears full size.
 
 ![Error](./screenshot/error_msg.png)
-Photo with no geotags are handled and doesn't prevent other photos to load.
+Photo with no geotags is handled and doesn't prevent other photos to load.
 
 
 ## Install
