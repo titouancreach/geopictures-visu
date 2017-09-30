@@ -31,8 +31,7 @@ const config = {
             use: {
                 loader: 'babel-loader',
                 options: {
-                    presets: ['babel-preset-stage-0'],
-                    plugins: ['syntax-async-functions']
+                    presets: ['babel-preset-stage-0']
                 }
             }
         }
